@@ -1,0 +1,14 @@
+{
+  "name": "cypress-integration-testing-demo",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "cypress": "^4.8.0"
+  },
+  "scripts": {
+    "cy:open": "cypress open "
+  },
+  "devDependencies": {
+    "uuid": "^8.1.0"
+  }
+}
