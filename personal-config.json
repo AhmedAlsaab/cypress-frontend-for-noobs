@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://devcenter.heroku.com/",
+  "env": {
+    "dummy_variable_1": "Found!"
+  }
+}
